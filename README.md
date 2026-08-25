@@ -1,6 +1,6 @@
 # evb.github.io
 
-Flamingo EVB user manual
+Flamingo EVB user manual ,copy link than teams to yourself, open it on MTK pc.
 
 Link1 (SE share folder):
 
