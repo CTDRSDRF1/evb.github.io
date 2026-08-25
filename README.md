@@ -3,6 +3,7 @@
 Flamingo EVB user manual
 
 Link1 (SE share folder):
+
 https://mtkteams.mediatek.inc/sites/CTD/Project/WBG/Combo/Flamingo/Shared Documents/02_SE/26_Flamingo SEVB_DTB%20User%20Manaul
  
 Link2 (Flamingo SPD share folder):
